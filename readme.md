@@ -24,7 +24,9 @@ The TCP Stream looks a bit like this:
                                                                |
                                                                |
                                                                |
+                                                               
 Inbound port 80 -------> HAPROXY--Does Request contain /home?--|
+
                                                                |
                                                                |
                                                                |
